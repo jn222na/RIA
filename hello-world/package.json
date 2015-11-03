@@ -1,0 +1,12 @@
+{
+"name": "Hello-world",
+"version": "0.0.1",
+"description": "Hello world app",
+"author": "joakim",
+"license": "swag",
+"scripts": {
+},
+"devDependencies": {
+"react": "0.14.2"
+}
+}
