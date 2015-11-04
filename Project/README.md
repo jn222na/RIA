@@ -1,4 +1,4 @@
-# What i have been learning this week
+## What i have been learning this week
 I have now been reading up on react/-router and redux without understanding that much, i hope that i will learn fast than quick when i come up with some idea for the project.
 
 # IDE
