@@ -3,3 +3,5 @@ I have now been reading up on react/-router and redux without understanding that
 
 # IDE
 I will start of by using Atom since it seems to be very light yet with the ability to easy install packages.
+
+# Project
